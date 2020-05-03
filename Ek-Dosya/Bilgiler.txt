@@ -1,0 +1,20 @@
+Fontlar :
+Candara; 20,25pt; style=Bold
+Segoe Script; 21,75pt; style=Bold
+
+
+
+Buton Renk Kodu:
+ 24; 180; 185
+
+
+Ölçüler : 
+Dış Çerçeve : 1200x640
+İç Çerçeve : 500x500
+
+İç çerçeve Kordinatı : 350;68
+
+
+// Bilgisayar Programcılığı 2.Sınıf Öğrenci
+// İzlediğiniz İçin Teşekkürler
+// Muhammed Ağaoğlu
